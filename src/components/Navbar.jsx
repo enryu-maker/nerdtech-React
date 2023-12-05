@@ -18,7 +18,7 @@ const Navbar = () => {
       <div className="md:flex items-center justify-between bg-white/70 backdrop-blur-md top-0    md:px-24 px-7">
         <div className="font-bold text-2xl text-[#0f7abc] cursor-pointer flex items-center">
         <img src={logo} alt="" className="h-[90px] w-[90px]" />
-        NerdTech
+        NERDTECH (R)
         </div>
         <div
           onClick={() => setOpen(!open)}

@@ -23,7 +23,7 @@ useEffect(()=>{
     <div className="max-sm:hidden fixed flex  text-[#0f7abc]  justify-between items-center top-0 h-[75px]  z-50 w-screen px-24 py-5 bg-white/70 backdrop-blur-md " style={{ fontFamily:'nothing', letterSpacing:2}}>
       <div className="text-2xl font-bold flex items-center justify-center">
         <img src={logo} alt="" className="h-[100px] w-[100px]" />
-        NerdTech</div>
+        NERDTECH (R)</div>
       <div className="flex gap-10"> 
         <Link
         onClick={() => {
