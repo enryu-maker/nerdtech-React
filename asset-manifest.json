@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.67697e78.css",
-    "main.js": "/static/js/main.59c1be01.js",
+    "main.js": "/static/js/main.f248df43.js",
     "static/js/787.8026d0a6.chunk.js": "/static/js/787.8026d0a6.chunk.js",
     "static/media/artificial-intelligence.gif": "/static/media/artificial-intelligence.d0a1913e96b231466f15.gif",
     "static/media/ad.gif": "/static/media/ad.23c546a2ec5f14900c0e.gif",
@@ -34,11 +34,11 @@
     "static/media/react.svg": "/static/media/react.6d4dd5dfc6163bdfcfe520bd6bef1a6a.svg",
     "index.html": "/index.html",
     "main.67697e78.css.map": "/static/css/main.67697e78.css.map",
-    "main.59c1be01.js.map": "/static/js/main.59c1be01.js.map",
+    "main.f248df43.js.map": "/static/js/main.f248df43.js.map",
     "787.8026d0a6.chunk.js.map": "/static/js/787.8026d0a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67697e78.css",
-    "static/js/main.59c1be01.js"
+    "static/js/main.f248df43.js"
   ]
 }
